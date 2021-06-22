@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+
+
+.navbar{
+    background-color: #7952b3;
+
+}
+.d-flex{
+    margin-left: 600px;
+    
+}
+.d-flex a{
+    margin:0 10px 0 10px ;
+    color: rgb(216, 214, 214);
+}
+.d-flex a:hover{
+    
+    color: white;
+}
+.d-flex  .btn{
+
+    border:1px solid #ffe484;
+    color:#ffe484;
+}
+.d-flex  .btn:hover{
+background-color: #ffe484;
+color: black;
+}
+.display-3{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    
+}
+.col-md-3 img{
+    width: 700px;
+    height: 600px;
+}
+.col-md-3{
+   margin-right: 90px; 
+}
+ .dis{
+    font-size: 25px;
+}
+.main{
+    
+    margin-top: 5vh;
+    justify-content: space-around;
+}
+.col-md-7{
+    margin-left: 70px;
+}
+.btn2{
+    border: 1px solid grey;
+    background-color: white;
+    color: gray;
+    font-weight: bolder;
+    padding: 9px;
+    margin: 3px;
+    
+}
+.btn2:hover{
+    border: 1px solid grey;
+    background-color: grey;
+    color: white;
+    
+}
+.btn1{
+    border: 1px solid #7952b3;
+    background-color: #7952b3;
+    color: white;
+    font-weight: bolder;
+    padding: 9px;
+    margin: 3px;
+}
+.btn1:hover{
+    border: 1px solid #7952b3;
+    background-color: #5c2ea1;
+    color: white;
+    
+}
+.int1,.int2{
+width: 40vw;
+height: 10vh;
+margin-bottom: 10px;
+background-color:rgb(201, 204, 207);
+
+
+}
+.div2{
+    justify-content: space-around;
+}
+.int{
+    margin-top: 70px;
+  
+}
+.intp{
+    margin-left: 5vw;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 2px;
+    
+}
+.row{
+    /* margin-top: 50px; */
+}
+.int11,.int22{
+    overflow: scroll;
+    font-size: smaller;
+}
+.icon{
+    background-color:#7952b3 ;
+
+}
+.booticon{
+    width:600px;
+    height:300px;
+}
+.foot{
+    background-color: rgb(145, 144, 144);
+    
+}   
+.li:hover{
+    color:blue;
+    text-decoration:underline;
+}
